@@ -16,7 +16,7 @@ function messagePrompt() {
             if (email != null && email != "") {
                 alert("Thanks for your email!");
             } else {
-                alert("You can come anytime!")
+                alert("You can come anytime!") 
             }
         }
     }
